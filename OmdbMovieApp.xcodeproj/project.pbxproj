@@ -110,7 +110,6 @@
 		7BFA072626E12CDC00E438B1 /* OmdbMovieApp */ = {
 			isa = PBXGroup;
 			children = (
-				7BFA085926E678D000E438B1 /* OmdbMovieApp.entitlements */,
 				7BFA07FD26E427AC00E438B1 /* Extension */,
 				7BFA07B026E19BA600E438B1 /* Service */,
 				7BFA077626E16A8E00E438B1 /* Components */,
@@ -118,12 +117,11 @@
 				7BFA074226E12DC000E438B1 /* Network */,
 				7BFA074626E12DE700E438B1 /* Delegates */,
 				7BFA074726E12E1900E438B1 /* Scenes */,
-				7BFA074426E12DD300E438B1 /* Helpers */,
 				7BFA073526E12CE800E438B1 /* Info.plist */,
 				7BFA077A26E17A2E00E438B1 /* GoogleService-Info.plist */,
 				7BFA073026E12CE800E438B1 /* Assets.xcassets */,
 				7BFA073226E12CE800E438B1 /* LaunchScreen.storyboard */,
-				7BFA074526E12DD900E438B1 /* SupportingFiles */,
+				7BFA085926E678D000E438B1 /* OmdbMovieApp.entitlements */,
 			);
 			path = OmdbMovieApp;
 			sourceTree = "<group>";
@@ -144,20 +142,6 @@
 				7BFA076B26E14F0600E438B1 /* RequestModels */,
 			);
 			path = Models;
-			sourceTree = "<group>";
-		};
-		7BFA074426E12DD300E438B1 /* Helpers */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Helpers;
-			sourceTree = "<group>";
-		};
-		7BFA074526E12DD900E438B1 /* SupportingFiles */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = SupportingFiles;
 			sourceTree = "<group>";
 		};
 		7BFA074626E12DE700E438B1 /* Delegates */ = {
